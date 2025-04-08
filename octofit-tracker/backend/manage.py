@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+# This is a sample code snippet for a Django project management script.
 def main():
     """Run administrative tasks."""
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "octofit_tracker.settings")
