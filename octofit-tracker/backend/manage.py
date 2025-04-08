@@ -17,6 +17,6 @@ def main():
         ) from exc
     execute_from_command_line(sys.argv)
 
-
+#  This is a sample code snippet for a Django project management script.
 if __name__ == "__main__":
     main()
